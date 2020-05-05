@@ -1,0 +1,63 @@
+body{
+  background-image: url("back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p{
+  font-size: 20px;
+  font-family: 'Slabo 27px', serif;
+}
+h2{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Indie Flower', cursive;
+}
+h4{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Loved by the King', cursive;
+}
+
+a{
+  font-size: 20px;
+}
+.navbar{
+background-color: rgb(51,122,183)!important;
+}
+.navbar-brand{
+  color:white !important;
+
+}
+ .navbar-nav >li >a {
+  color:white !important;
+}
+.jumbotron {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 140px;
+    width: 550px;
+    margin: auto;
+
+    background-image: url("pitch2.png");
+
+    background-position: 0% 7%;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btn-primary{
+  margin-top:20px !important;
+}
+#post-form{
+  float: right;
+  margin-right: 32%;
+}
+#bio{
+  font-size: 50%;
+  float: left;
+  margin-left: 3%;
+  font-weight: bold;
+}
+#register,#login{
+  font-size: 18px;
+}
