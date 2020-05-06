@@ -25,7 +25,7 @@ def login():
 def logout():
     logout_user()
     return redirect(url_for('main.index'))
-
+#route to register new user
 @auth.route('/register',methods = ["GET","POST"])
 def register():
     form = RegistrationForm()
