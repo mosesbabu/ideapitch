@@ -1,7 +1,7 @@
 import unittest
 from app.models import User,Pitch,Review,Role
 from app import db
-
+#class definitions for unit tests implementation
 class UserModelTest(unittest.TestCase):
 
     def setUp(self):
