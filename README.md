@@ -7,8 +7,8 @@ By: Moses Babu
 ## Description
 This web-app allows the user to submit their pitches,have them voted and commented upon.
 
-## Setup/Installation Requirements
-* Live site can be accessed from the following link
+
+## click [here](https://ideapitch.herokuapp.com/) to view live site
 
 
 ### Known Bugs
